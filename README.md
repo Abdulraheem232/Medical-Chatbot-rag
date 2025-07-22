@@ -62,14 +62,6 @@ API_KEY=your_groq_api_key_here
 
 ---
 
-### 📄 Add Your PDF
-
-Place your medical PDF (e.g., notes or research papers) in the project directory. By default, the app loads:
-
-```python
-pdf_name = "Java Notes.pdf"  # replace with your actual medical PDF name
-```
-
 ---
 
 ### 🚀 Run the App
